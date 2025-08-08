@@ -30,6 +30,8 @@ building:
 ### 📊 GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicobarto95&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicobarto95&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -40,4 +42,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nicobarto95&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 

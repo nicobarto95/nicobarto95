@@ -35,9 +35,13 @@ building:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 58 mins
 
-No activity tracked
+Terraform    1 hr 42 mins    ██████████████▒░░░░░░░░░░   57.10 %
+Markdown     42 mins         ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+YAML         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+HCL          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Bash         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->

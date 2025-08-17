@@ -35,13 +35,12 @@ building:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 36 mins
+Total Time: 1 hr 38 mins
 
-Terraform    2 hrs 17 mins   ████████████▒░░░░░░░░░░░░   49.64 %
-YAML         1 hr 14 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
-Markdown     42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-HCL          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Bash         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+YAML        1 hr 1 min      ███████████████▓░░░░░░░░░   62.55 %
+Terraform   35 mins         █████████░░░░░░░░░░░░░░░░   36.06 %
+Git         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->

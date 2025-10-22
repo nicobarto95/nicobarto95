@@ -24,7 +24,7 @@ learning:
 
 certification to earn:
   - "Google Cloud Engineer Associate"
-  - "AWS Developer Accociate"
+  - "AWS Developer Associate"
   - "AWS Solution Architect Associate"
 
 certification earned:

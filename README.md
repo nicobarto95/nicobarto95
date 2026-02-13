@@ -4,7 +4,7 @@
   
 ## 🚀 DevOps Engineer | Cloud Architect | SRE Practitioner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicola-bartolini-80487b178)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-bartolini-80487b178)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.bartolini01@gmail.com)
 
 *Building cost-effective, secure, and self-healing cloud infrastructure*
